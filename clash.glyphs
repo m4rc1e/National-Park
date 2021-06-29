@@ -17,7 +17,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-06-29 15:26:08 +0000";
+lastChange = "2021-06-29 15:37:03 +0000";
 layers = (
 {
 layerId = "E3698003-9492-43CD-B34F-CD962B25BEB9";
@@ -37,6 +37,15 @@ nodes = (
 "144 103 OFFCURVE",
 "219 28 OFFCURVE",
 "313 28 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"128 174 LINE",
+"412 174 LINE",
+"412 395 LINE",
+"128 395 LINE"
 );
 }
 );
